@@ -27,11 +27,12 @@ Notice there are really only 6 matches in regular Pyramid Solitaire. I applied t
 * Since any six versese are all that is needed for the game play, there is opportunity for all kinds of verse sets to be added.
 * I am developing a web version of this game using JavaScript
 
-<br>
-![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-1.png)<br>
-![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-2.png)<br>
-![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-3.png)<br>
-![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-4.png)<br>
-![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-5.png)<br>
-![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-6.png)<br>
-![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-7.png)
+### Here are the slides:<br>
+
+![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-1.png) <br>
+![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-2.png) <br>
+![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-3.png) <br>
+![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-4.png) <br>
+![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-5.png) <br>
+![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-6.png) <br>
+![alt text](http://bluegalaxy.info/images/python-pyramid-solitaire-7.png) <br>
