@@ -12,12 +12,12 @@ Kings don't need a match<br>
 
 Notice there are really only 6 matches in regular Pyramid Solitaire. I applied this concept to Bible verse memorization. This particular game has 6 verses take from Philippians chapter 4. The goal is to match the verse text from one card with the chapter and verse number from another card, which aids in memorization due to the repetition of making these matches during gameplay. 
 
+**Philippians 4:4-5** matches with *"Rejoice in the Lord always. I will say it again: Rejoice! Let your gentleness be evident to all. The Lord is near."* <br>
 **Philippians 4:6-7** matches with *"Do not be anxious about anything, but in everything, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."* <br>
 **Philippians 4:8** matches with *"Finally, brothers and sisters, whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable-if anything is excellent or praiseworthy-think about such things."* <br>
-**Philippians 4:4-5** matches with *"Rejoice in the Lord always. I will say it again: Rejoice! Let your gentleness be evident to all. The Lord is near."* <br>
+**Philippians 4:12** matches with *"I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want."* <br>
 **Philippians 4:13** matches with *"I can do all things through him who gives me strength."* <br>
 **Philippians 4:19** matches with *"And my God will meet all your needs according to his glorious riches in Christ Jesus."* <br>
-**Philippians 4:12** matches with *"I know what it is to be in need, and I know what it is to have plenty. I have learned the secret of being content in any and every situation, whether well fed or hungry, whether living in plenty or in want."* <br>
 
 
 
