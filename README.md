@@ -21,10 +21,10 @@ Notice there are really only 6 matches in regular Pyramid Solitaire. I applied t
 
 
 
-* Written in Python using the PyGame game engine
+* Game written in Python using the PyGame game engine
 * Features scoring across three deals
 * Includes sound effects
-* Since any six versese are all that is needed for the game play, there is opportunity for all kinds of verse sets to be added.
+* Since any six verses are all that is needed for the game play, there is opportunity for all kinds of verse sets to be added.
 * I am developing a web version of this game using JavaScript
 
 ### Here are the slides:<br>
