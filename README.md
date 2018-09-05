@@ -2,13 +2,14 @@
 
 This is a Pyramid Solitaire variant I wrote in Python, which has cards that are Bible verses. This is meant to combine the fun of Pyramid Solitaire with Bible verse memorization. In normal Pyramid Solitaire, every two cards that add up to 13 are a match, and the King has no match. For example:<br>
 
+Kings = 13 (don't need a match)<br>
 Ace = 1 matches with Queen = 12<br>
-2 Card  matches with Jack = 11<br>
-3 Card  matches with 10 card<br>
-4 Card  matches with  9 card<br>
-5 Card  matches with  8 card<br>
-6 Card  matches with  7 card<br>
-Kings don't need a match<br>
+2 card matches with Jack = 11<br>
+3 card matches with 10 card<br>
+4 card matches with 9 card<br>
+5 card matches with 8 card<br>
+6 card matches with 7 card<br>
+<br>
 
 Notice there are really only 6 matches in regular Pyramid Solitaire. I applied this concept to Bible verse memorization. This particular game has 6 verses take from Philippians chapter 4. The goal is to match the verse text from one card with the chapter and verse number from another card, which aids in memorization due to the repetition of making these matches during gameplay. 
 
